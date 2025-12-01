@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "name": "Notebook (A5)",
+    "price": 35.0,
+    "stock": 40
+  },
+  {
+    "id": 3,
+    "name": "Bond Paper (A4) - 1pc",
+    "price": 3.0,
+    "stock": 500
+  },
+  {
+    "id": 4,
+    "name": "Highlighter",
+    "price": 28.0,
+    "stock": 40
+  },
+  {
+    "id": 5,
+    "name": "Eraser",
+    "price": 5.0,
+    "stock": 80
+  }
+]
